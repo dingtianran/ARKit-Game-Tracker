@@ -106,6 +106,13 @@ Uncharted: Lost Legacy
 Naughty Dog/Sony
 2017
 """)
+        }
+        else if matName == "colossus" {
+            mat = self.drawImagesAndText(string: """
+Shadow of the Colossus
+SIE Japan/Sony
+2017
+""")
         } else {
             mat = self.drawImagesAndText(string: """
 ??????
